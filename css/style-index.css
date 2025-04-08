@@ -1,0 +1,19 @@
+
+#upravljacka-ploca{
+    background-color:  rgba(88, 186, 224, 0.678);
+}
+#donutchart{
+    margin: 40px;
+    padding: 0px;
+    float: left;
+}
+#velicinachart{
+    margin: 40px;
+    padding: 0px; 
+    float: right;
+}
+#novapolica{
+    margin-left: 3px;
+}
+
+
