@@ -4,7 +4,7 @@ include "includes/dbh.inc.php";
 include "includes/fetch_velicina.php";
 include "includes/fetch_polica.php";
 include "includes/fetch_polica_chart.php";
-include "includes/fetch_sve.php";
+include "includes/fetch_sve1.php";
 include "includes/za_index_fetch.php";
  
 

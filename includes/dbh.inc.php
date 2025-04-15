@@ -1,7 +1,7 @@
 <?php    
-$dsn="mysql:host=localhost;dbname=u201042929_skladiste";
-$dbusername="u201042929_admin";
-$dbpassword="Novi_majur_treba_optiku1";
+$dsn="mysql:host=localhost;dbname=skladiste";
+$dbusername="root";
+$dbpassword="";
 
 
 try{

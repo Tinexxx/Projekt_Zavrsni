@@ -6,7 +6,7 @@ include "includes/fetch_pojedinosti_roba.php";
 include "includes/fetch_velicina.php";
 include "includes/fetch_vrsta_robe.php";
 include "includes/fetch_zakupac.php";
-include "includes/fetch_sve.php";
+include "includes/fetch_sve1.php";
 ?>
 
 <!DOCTYPE html>
