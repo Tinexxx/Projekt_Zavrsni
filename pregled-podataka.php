@@ -728,7 +728,7 @@ include "includes/fetch_sve1.php";
         <h1>Dashboard</h1>
     
     </div>
-    <a href="logout.php" class="btn btn-outline-danger logout-btn">
+    <a href="includes/logout.php" class="btn btn-outline-danger logout-btn">
         <i class="fas fa-sign-out-alt me-1"></i> Odjava
     </a>
 </div>
